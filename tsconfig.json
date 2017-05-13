@@ -1,0 +1,10 @@
+{
+    "files": [
+        "src/app.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        //"experimentalDecorators": true,
+        "target": "es2015"
+    }
+}
